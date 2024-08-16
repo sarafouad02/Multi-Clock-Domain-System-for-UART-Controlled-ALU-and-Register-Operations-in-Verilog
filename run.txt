@@ -1,0 +1,7 @@
+vlib work
+vlog -f sourcefile.txt
+vsim -voptargs=+accs work.SYSTEM_TOP_TB
+add wave *
+add wave -position insertpoint  \
+
+run -all

@@ -60,7 +60,7 @@ Configuration registers (0x0–0x3) define parity, prescale, and division ratios
 
 ## Simulation & Testbench
 
-* **UVM‑Based TB** under `tb/` generates UART frames, drives resets, and checks responses.
+under `tb/` generates UART frames, drives resets, and checks responses.
 * **Sequence of Operation**:
 
   1. Initialize configuration registers via RF\_Write (addresses 0x2, 0x3)

@@ -19,7 +19,7 @@ Key capabilities:
 
   * `RST_Synchronizer` for reset alignment
   * `Data_Synchronizer` for single‑cycle pulses
-  * `ASYNC_FIFO` for multi‑word data crossing fileciteturn2file0
+  * `ASYNC_FIFO` for multi‑word data crossing 
 
 ## Top‑Level Blocks
 
